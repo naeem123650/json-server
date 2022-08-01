@@ -1,0 +1,26 @@
+[
+    {
+        id: 1,
+        event_name: "Grid Event",
+        time: "11:15 PM",
+        date: "12/12/2022",
+        author: "Naeem",
+        allowPets: true,
+    },
+    {
+        id: 2,
+        event_name: "Filter Event",
+        time: "11:20 PM",
+        date: "12/07/2022",
+        author: "Pinak",
+        allowPets: false,
+    },
+    {
+        id: 3,
+        event_name: "Search Event",
+        time: "10:15 AM",
+        date: "20/01/2022",
+        author: "Nimit",
+        allowPets: true,
+    }
+]
