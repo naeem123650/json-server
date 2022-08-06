@@ -6,7 +6,7 @@
           "time": "12:20 AM",
           "date": "12/8/2022",
           "author": "Naeem Valiyani",
-          "isLiked": true,
+          "isLiked": true
         },
         {
           "id": 2,
@@ -14,7 +14,7 @@
           "time": "12:20 AM",
           "date": "12/8/2022",
           "author": "Nimit Bhagat",
-          "isLiked": false,
+          "isLiked": false
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
           "time": "12:20 AM",
           "date": "12/8/2022",
           "author": "Pinak Kushakiya",
-          "isLiked": false,
-        },
-      ]
+          "isLiked": false
+        }
+    ]
 }
