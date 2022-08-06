@@ -7,22 +7,6 @@
           "date": "12/8/2022",
           "author": "Naeem Valiyani",
           "isLiked": true
-        },
-        {
-          "id": 2,
-          "event_name": "Grid Event",
-          "time": "12:20 AM",
-          "date": "12/8/2022",
-          "author": "Nimit Bhagat",
-          "isLiked": false
-        },
-        {
-          "id": 3,
-          "event_name": "Filter Event",
-          "time": "12:20 AM",
-          "date": "12/8/2022",
-          "author": "Pinak Kushakiya",
-          "isLiked": false
         }
     ]
 }
