@@ -1,12 +1,11 @@
-{
-  "events": [
-        {
-          "id": 1,
-          "event_name": "Search Event",
-          "time": "12:20 AM",
-          "date": "12/8/2022",
-          "author": "Naeem Valiyani",
-          "isLiked": true
-        }
-    ]
-}
+"events": [
+    {
+      "id": 1,
+      "event_name": "Search Event",
+      "time": "12:20 AM",
+      "date": "12/8/2022",
+      "author": "Naeem Valiyani",
+      "isLiked": true
+    }
+]
+
