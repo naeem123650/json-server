@@ -1,31 +1,28 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events": [
+        {
+          "id": 1,
+          "event_name": "Search Event",
+          "time": "12:20 AM",
+          "date": "12/8/2022",
+          "author": "Naeem Valiyani",
+          "isLiked": true,
+        },
+        {
+          "id": 2,
+          "event_name": "Grid Event",
+          "time": "12:20 AM",
+          "date": "12/8/2022",
+          "author": "Nimit Bhagat",
+          "isLiked": false,
+        },
+        {
+          "id": 3,
+          "event_name": "Filter Event",
+          "time": "12:20 AM",
+          "date": "12/8/2022",
+          "author": "Pinak Kushakiya",
+          "isLiked": false,
+        },
+      ]
 }
